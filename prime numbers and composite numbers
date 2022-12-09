@@ -27,7 +27,7 @@ def composite_number(start,end):
 
 
 #main
-start = int(input('Enter starting number:-'))
+start = int(input('ENTER STARTING NUMBER:-'))
 end = int(input('Enter ending number:-'))
 print('\nPrime numbers between',start,'and',end,'are:')
 prime_number(start,end)
